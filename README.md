@@ -1,5 +1,5 @@
 ## Minigrep
----
+
 This mini project is part of my [rust](https://www.rust-lang.org/) programming language learning. We tried here to make our own version of
 the command line search tool `grep` that stands for **g**lobally search a **r**egular **e**xpression and **p**rint. In the simple use case,
 grep searches a specified file for a specified string. Then it reads the file, fids lines in that file that contain the string argument,
